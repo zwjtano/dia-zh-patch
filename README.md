@@ -2,7 +2,7 @@
 
 为 **Dia 浏览器**提供简体中文界面汉化的非官方补丁，覆盖菜单、设置、聊天与技能界面。应用于已安装的 Dia，**不包含浏览器本体**。
 
-**[下载 R7 汉化补丁](https://github.com/zwjtano/dia-zh-patch/raw/refs/heads/main/Dia-原位汉化补丁-R7-截图修正.zip)** · [安装方法](#安装方法) · [还原方法](#还原方法) · [反馈问题](https://github.com/zwjtano/dia-zh-patch/issues)
+**[下载 R7 汉化补丁](https://github.com/zwjtano/dia-zh-patch/releases/download/v0.7.0-beta.1/Dia-Chinese-Patch-R7.zip)** · [版本发布页](https://github.com/zwjtano/dia-zh-patch/releases/tag/v0.7.0-beta.1) · [安装方法](#安装方法) · [还原方法](#还原方法) · [反馈问题](https://github.com/zwjtano/dia-zh-patch/issues)
 
 > **适用版本：Dia 1.49.1（87398），macOS / Apple Silicon。实验版，尚有未翻译内容，登录、钥匙串和通行密钥兼容性未完整验证。**
 
